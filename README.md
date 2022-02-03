@@ -39,10 +39,10 @@ In this notebook, you will load historical Dollar-Yen exchange rate futures data
 Follow the steps outlined in the time-series starter notebook to complete the following:
 
 1. Decomposition using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
-![](Images/settle noise)
+(Images/settle noise)
 ![](Images/settle trend)
 2. Forecasting Returns using an ARMA Model.
-![](Images/returns arma model)
+!(Images/https://github.com/Cgraciano2021/A_Yen_for_the_Future/blob/main/Images/returns%20arma%20model.png)
 ![](Images/forecast Returns)
 3. Forecasting the Settle Price using an ARIMA Model.
 ![](Images/settle price arima model)
