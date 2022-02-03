@@ -39,9 +39,15 @@ In this notebook, you will load historical Dollar-Yen exchange rate futures data
 Follow the steps outlined in the time-series starter notebook to complete the following:
 
 1. Decomposition using a Hodrick-Prescott Filter (Decompose the Settle price into trend and noise).
+(Images/settle noise)
+(Images/settle trend)
 2. Forecasting Returns using an ARMA Model.
+(Images/returns arma model)
+(Images/forecast Returns)
 3. Forecasting the Settle Price using an ARIMA Model.
+(Images/settle price arima model)
 4. Forecasting Volatility with GARCH.
+(Images/forecasting volatility with GARCH)
 
 Use the results of the time series analysis and modeling to answer the following questions:
 
